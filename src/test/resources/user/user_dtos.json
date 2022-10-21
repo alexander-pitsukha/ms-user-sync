@@ -1,0 +1,28 @@
+[
+  {
+    "password": "$2a$10$aCAex9hLLYY6V4Og.UVHi..jWtwb0oSL.2D/bDUoDGem4aW1VPCi6",
+    "deactivated": false,
+    "displayname": "asdfsadfasdf",
+    "threepids": [
+      {
+        "medium": "email",
+        "address": "fasfasd@fdasfasdfasd.nn"
+      }
+    ],
+    "avatar_url": "613fbdb4-e2d7-4a08-a298-474a24b59ee1",
+    "admin": false
+  },
+  {
+    "password": "",
+    "deactivated": false,
+    "displayname": "Ван Дер Вен Киис",
+    "threepids": [
+      {
+        "medium": "email",
+        "address": "11ds@yandex.ru"
+      }
+    ],
+    "avatar_url": "53af5033-9a53-4464-8fb5-678e80311c11",
+    "admin": false
+  }
+]

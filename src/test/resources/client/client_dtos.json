@@ -1,0 +1,26 @@
+[
+  {
+    "id": 30837,
+    "nickname": "asdfsadfasdf",
+    "firstName": null,
+    "lastName": null,
+    "email": "fasfasd@fdasfasdfasd.nn",
+    "password": "$2a$10$aCAex9hLLYY6V4Og.UVHi..jWtwb0oSL.2D/bDUoDGem4aW1VPCi6",
+    "profilePictureUuid": "613fbdb4-e2d7-4a08-a298-474a24b59ee1",
+    "externalId": "613fbdb4-e2d7-4a08-a298-474a24b59eea",
+    "createdAt": "2021-04-02 11:45:00",
+    "updatedAt": "2021-05-02 11:45:00"
+  },
+  {
+    "id": 21650,
+    "nickname": null,
+    "firstName": "Ван Дер Вен",
+    "lastName": "Киис",
+    "email": "11ds@yandex.ru",
+    "password": "",
+    "profilePictureUuid": "53af5033-9a53-4464-8fb5-678e80311c11",
+    "externalId": "53af5033-9a53-4464-8fb5-678e80311c1d",
+    "createdAt": "2021-04-02 11:45:00",
+    "updatedAt": ""
+  }
+]

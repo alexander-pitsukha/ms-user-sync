@@ -1,0 +1,13 @@
+{
+  "password": "$2a$10$aCAex9hLLYY6V4Og.UVHi..jWtwb0oSL.2D/bDUoDGem4aW1VPCi6",
+  "deactivated": false,
+  "displayname": "asdfsadfasdf",
+  "threepids": [
+    {
+      "medium": "email",
+      "address": "fasfasd@fdasfasdfasd.nn"
+    }
+  ],
+  "avatar_url": "613fbdb4-e2d7-4a08-a298-474a24b59ee1",
+  "admin": false
+}
