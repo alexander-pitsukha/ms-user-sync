@@ -111,14 +111,14 @@ class UserMigrationServiceImplIntegrationTests extends AbstractTests {
                         .withBody(response)));
     }
 
-    private void stubByteResponse(String uri) throws IOException {
+    private void stubByteResponse(String uri) {
         stubFor(get(urlEqualTo(uri))
                 .willReturn(aResponse()
                         .withHeader(HttpHeaders.CONTENT_TYPE, MediaType.APPLICATION_JSON_VALUE)
                         .withBody(new byte[]{})));
     }
 
-    private void stubCreateOrUpdateUser(String uri) throws IOException {
+    private void stubCreateOrUpdateUser(String uri) {
         stubFor(put(urlEqualTo(uri))
                 .willReturn(aResponse()
                         .withHeader(HttpHeaders.CONTENT_TYPE, MediaType.APPLICATION_JSON_VALUE)
